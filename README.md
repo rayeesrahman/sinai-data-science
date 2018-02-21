@@ -1,2 +1,2 @@
-# sinai-data-science
+# Sinai Data Science
 Powerpoints and iPython notebooks written by me for the Sinai Data Science club
